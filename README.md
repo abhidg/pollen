@@ -1,4 +1,4 @@
-## MCR Voting System
+## pollen voting system
 
 This is a work-in-progress. Following are the intended scripts:
 
