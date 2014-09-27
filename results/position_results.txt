@@ -1,0 +1,5 @@
+vote log exclusive
+duration ...
+---
+f572d396fae9206628714fb2ce00f72e94f2258f yes
+a0b83b854c29a88f327d3181ae2b55c3436f560d no

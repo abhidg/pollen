@@ -1,0 +1,21 @@
+---
+slug: some-question
+name: "The MCR votes on the Some Question"
+output: /srv/www/vote.example.com/
+voting_sample_email: ~/mcrvote/samples/question.tt
+email_counts: True
+email: list@example.com
+email_from: vote@example.com
+voter_list: ~/people/mcr.txt
+voter_list_sha1sum: a0b83b854c29a88f327d3181ae2b55c3436f560dt
+type: exclusive
+begin: 2014-10-27T20:53Z
+end: 2014-10-28T20:53Z
+quorum_percentage: 20
+positions:
+  - position: I support the position of Some Question
+    short: q
+    candidates:
+    - yes
+    - no
+    - abstain

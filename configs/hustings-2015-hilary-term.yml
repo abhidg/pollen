@@ -1,0 +1,29 @@
+---
+name: "Hustings 2015 Elections, Hilary Term"
+output: /srv/www/vote.example.com/
+voting_sample_email: ~/mcrvote/samples/hustings.tt
+email_counts: True
+email: list@example.com
+email_from: vote@example.com
+voter_list: ~/people/mcr.txt
+voter_list_sha1sum: a0b83b854c29a88f327d3181ae2b55c3436f560d
+type: preferential
+voting_system: concordcet
+begin: 2014-10-27T20:53Z
+end: 2014-10-28T20:53Z
+quorum_percentage: 25
+positions:
+  - position: President
+    short: p
+    candidates:
+    - John Doe
+    - Jane Doe
+    - RON
+  - position: Social Secretary
+    short: ss
+    to_be_elected: 3
+    candidates:
+    - John Smith
+    - Jane Doe
+    - Foo Bar
+    - RON

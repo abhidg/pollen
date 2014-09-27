@@ -1,0 +1,11 @@
+vote husting-2014 preferential concordcet
+email whatever@example.com
+number-elected-by-position p 1 ss 2 w 3 vp 1 fr 1
+position p John Doe, Jane Doe, RON
+position vp Hello, There, RON
+position ss John Smith, RON
+duration ...
+---
+f572d396fae9206628714fb2ce00f72e94f2258f p111 vp120 ss---x
+a0b83b854c29a88f327d3181ae2b55c3436f560d p120 vp203 ss---
+
